@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Whoah someone added text to this second line!
 Do you mean I can write three lines?
 Alice really is the best.
+Wow Alice is awesome!
